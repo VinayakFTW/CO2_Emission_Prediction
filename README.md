@@ -10,4 +10,4 @@ Predicting CO2 emissions of various vehicles using regression
 ```bash
     pip install pandas numpy matplotlib seaborn scitkit-learn xgboost
 ```
-**if you don't have a Nvidia GPU or a Supported GPU then remove "device = 'cuda' from model constructor.**
+**if you don't have a Nvidia GPU or a Supported GPU then remove device = 'cuda' from model constructor.**
